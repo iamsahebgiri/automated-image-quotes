@@ -1,0 +1,12 @@
+{
+  "name": "automate-task",
+  "version": "1.0.0",
+  "description": "An small script that generate images of quotes for quoteshunt",
+  "main": "index.js",
+  "scripts": {
+    "dev": "lite-server ./src/"
+  },
+  "author": "Saheb Giri",
+  "license": "MIT",
+  "dependencies": {}
+}
